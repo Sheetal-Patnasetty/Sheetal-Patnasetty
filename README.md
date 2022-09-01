@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Sheetal KP. I'm pursuing Btech in Computer Science. I have found my intrest in developing websites and I have good knowledge of HTML, CSS, Javacript and Basics of Python programming and MySQL too!
-- 🌱 I’m currently learning ReactJS for Frontend Web Development.
+- 👋 Hi, I’m Sheetal KP. I'm pursuing Btech in Computer Science. I have found my intrest in developing websites and I have good knowledge of HTML, CSS, Javacript,React and Basics of Python programming.
 - 👀 I’m looking forward to enhance my knowledge and also to contribute them to the society.
 - 📫 My email address: sheetalpatnasetty@gmail.com
 
